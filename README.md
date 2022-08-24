@@ -4,4 +4,4 @@
 Proyecto con Ejemplos de condicionales en Python
 ***
 - Condicional IF
--Condicioanl ELIF
+- Condicioanl ELIF
